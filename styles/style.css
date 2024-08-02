@@ -1,0 +1,43 @@
+.first-title{
+    color: blue;
+    font-size: x-large;
+}
+.li1{
+color: blueviolet;
+}
+.li2{
+color: brown;
+}
+.li3{
+color: coral;
+}
+
+.lis{
+    font-size: xx-large;
+    border: 1px solid black;
+}
+
+#llii{
+    font-size: xx-small;
+}
+
+#paragraph{
+    color: blue;
+}
+
+.link{
+    font-size: large;
+    color: crimson;
+    font-weight: bolder;
+}
+.link:hover{
+    color: darkmagenta;
+}
+.link:visited{
+    color: black;
+}
+.division{
+    background-image: url("/images/Soap.jpg");
+    background-position: bottom;
+    width: 50%;
+}
